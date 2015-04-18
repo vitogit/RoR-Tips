@@ -1,3 +1,14 @@
+##Guías y mejores practicas de RoR
+
+* Guias de estilo
+https://github.com/bbatsov/rails-style-guide - http://github.com/bbatsov/ruby-style-guide
+
+* Commit Messages
+http://365git.tumblr.com/post/3308646748/writing-git-commit-messages
+
+* Rails Best Practices 
+http://github.com/railsbp/rails_best_practices
+
 
 ## Generador de aplicaciones en rails
 http://railsapps.github.io/rails-composer/ 
